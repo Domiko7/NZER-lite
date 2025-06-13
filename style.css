@@ -36,7 +36,7 @@ body {
 }
 
 .scrollSlow {
-    animation: scrollLeft 40s linear infinite;
+    animation: scrollLeft 50s linear infinite;
 }
 
 .scrollFast {
