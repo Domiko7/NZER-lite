@@ -4,7 +4,7 @@ body {
 }
 
 #banner {
-    background-color: hsl(211, 100%, 50%);
+    background-color: hsl(0, 0%, 0%);
     padding-top: 8px;
     padding-bottom: 8px;
     text-align: right;
@@ -32,7 +32,7 @@ body {
 .ticker, .ticker-item {
     display: inline-block;
     font-size: 24px;
-    color: #fff;
+    color: hsl(0, 0%, 100%);
 }
 
 .scrollSlow {
