@@ -1,9 +1,9 @@
-# Template
+# NZER
 <img alt="Discord" src="https://img.shields.io/discord/1334954823598084217">
 
 ------
 
-- This is Domiko's template
+- NZER = New Zealand Earthquake Reports
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,17 +12,13 @@
 
 
 ## Contributors
-- Domiko7 `Documentation`
+- Domiko7 `everything`
 
 ------
 
 ## Installation
 
-To get started, clone this repository:
-
-```bash
-git clone https://github.com/Domiko7/Domiko-s-Template
-```
+To get started, go to this webiste: 
 
 ## Release Rules
 - If there is a bug in the new version that has not been listed, please submit the bug information to an ```issue```.
