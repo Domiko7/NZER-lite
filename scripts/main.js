@@ -33,7 +33,7 @@ function earthquakeReport(mag, depth, time, location, mmi) {
         ticker.innerHTML = `
         <span class="ticker-item"> | ${message} </span>
         <span class="ticker-item"></span>
-        `.repeat(2);
+        `.repeat(4);
     }, 1000);
     
 }
